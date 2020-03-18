@@ -1,0 +1,17 @@
+body {
+  background: #161616;
+  color: #bdbdbd;
+  font-weight: 300;
+  height: 100vh;
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-family: Helvetica neue, roboto;
+}
+
+#imgDiv {
+    background-image: url("https://siteorigin.com/wp-content/uploads/2017/08/geran-de-klerk-187797.jpg");
+    height: 500px; /* Visible height */
+    width: 1000px; /* Visible width */
+}
